@@ -1,0 +1,1001 @@
+Customer ID,First Name,Last Name,State,Date of Birth, Last 6 Months Purchases 
+AKel38792,Aaron,Kelley,Kansas,16/03/2006, $425.00 
+AAgu38852,Abel,Aguilar,Arkansas,15/05/2006, $90.00 
+AYou37354,Abel,Young,New Mexico,08/04/2002, $150.00 
+AJos37342,Abraham,Joseph,California,27/03/2002, $25.00 
+ARee38089,Abraham,Reese,Oregon,12/04/2004, $154.00 
+AHou37417,Adam,Houston,Vermont,10/06/2002, $56.40 
+AHer38061,Adrian,Herrera,North Dakota,15/03/2004, $127.00 
+AVeg38688,Alan,Vega,Mississippi,02/12/2005, $80.00 
+ADun38780,Alberto,Duncan,Washington,04/03/2006, $460.00 
+ABel38976,Alejandro,Bell,Colorado,16/09/2006, $366.00 
+ACha37139,Alejandro,Chambers,New York,05/09/2001, $393.00 
+AHou38846,Alejandro,Houston,Rhode Island,09/05/2006, $287.00 
+AOli38341,Alexandra,Oliver,North Carolina,20/12/2004, $75.00 
+AGri37951,Alfred,Griffith,Pennsylvania,26/11/2003, $92.00 
+ACra37187,Alice,Craig,Illinois,23/10/2001, $84.00 
+ABal38523,Allen,Ballard,Idaho,20/06/2005, $59.40 
+APad37403,Allison,Padilla,Arizona,27/05/2002, $96.00 
+ABar38831,Alma,Barton,Pennsylvania,24/04/2006, $181.00 
+AEst38236,Alma,Estrada,Mississippi,06/09/2004, $200.00 
+AHig37102,Alma,Higgins,Hawaii,30/07/2001, $75.00 
+ALee38708,Alonzo,Lee,California,22/12/2005, $602.00 
+ARic38967,Alton,Rice,California,07/09/2006, $900.90 
+AMor38993,Alvin,Morgan,Mississippi,03/10/2006, $70.00 
+ABen38905,Amanda,Benson,Illinois,07/07/2006, $154.00 
+ATuc38484,Amber,Tucker,Pennsylvania,12/05/2005, $84.00 
+AHou37227,Amelia,Houston,Louisiana,02/12/2001, $90.00 
+ALun39034,Amelia,Luna,Florida,13/11/2006, $225.00 
+ATer36904,Amelia,Terry,Nebraska,13/01/2001, $102.00 
+ACal37333,Amos,Caldwell,Wisconsin,18/03/2002, $124.00 
+AJim37913,Amos,Jimenez,California,19/10/2003, $687.00 
+AHog39025,Andrea,Hogan,North Carolina,04/11/2006, $75.00 
+ADra38546,Andres,Drake,Pennsylvania,13/07/2005, $150.00 
+APar37629,Andres,Park,South Dakota,08/01/2003, $55.00 
+ACor37135,Andrew,Cortez,Wyoming,01/09/2001, $165.00 
+ATur37645,Andrew,Turner,New Jersey,24/01/2003, $25.00 
+AGeo38235,Andy,George,Hawaii,05/09/2004, $715.00 
+AGre38840,Andy,Gregory,Mississippi,03/05/2006, $70.00 
+AHar38504,Andy,Harvey,Massachusetts,01/06/2005, $225.00 
+AWeb37894,Andy,Webster,North Dakota,30/09/2003, $600.00 
+ACum38588,Angel,Cummings,Florida,24/08/2005, $57.00 
+ARee38169,Angel,Reed,Maryland,01/07/2004, $667.00 
+AMor38592,Angela,Morgan,Arizona,28/08/2005, $325.00 
+AWeb38568,Angela,Weber,Texas,04/08/2005, $57.20 
+AQui38942,Angelina,Quinn,District of Columbia,13/08/2006, $400.00 
+ARob36090,Angelo,Roberts,Texas,22/10/1998, $203.00 
+ABak36477,Anne,Baker,California,13/11/1999, $25.00 
+ANew35597,Annie,Newman,Alabama,16/06/1997, $70.00 
+ACoo34447,Anthony,Cook,Montana,23/04/1994, $75.00 
+ALun34596,Anthony,Luna,New Hampshire,19/09/1994, $651.00 
+APra35499,Anthony,Pratt,Maine,10/03/1997, $84.00 
+ACha33420,Antoinette,Chapman,West Virginia,01/07/1991, $90.00 
+ACra33314,Antonio,Craig,Iowa,17/03/1991, $425.00 
+APop36507,Antonio,Pope,Kansas,13/12/1999, $425.00 
+ABut35079,April,Butler,Washington,15/01/1996, $525.00 
+AMan35214,Archie,Manning,Vermont,29/05/1996, $72.00 
+ANic36182,Archie,Nichols,New Mexico,22/01/1999, $200.00 
+ASch35042,Archie,Schwartz,Maryland,09/12/1995, $921.60 
+ABak33614,Arlene,Baker,Illinois,11/01/1992, $99.00 
+ALaw34952,Arlene,Lawson,California,10/09/1995, $687.00 
+ARee33763,Arlene,Reeves,Rhode Island,08/06/1992, $725.00 
+AUnd35993,Arlene,Underwood,California,17/07/1998, $932.00 
+AWar35334,Arlene,Warner,New Jersey,26/09/1996, $787.00 
+AFre34777,Arnold,French,California,19/03/1995, $95.00 
+AMan34116,Arturo,Manning,Minnesota,27/05/1993, $300.00 
+ARic35130,Arturo,Richards,Oklahoma,06/03/1996, $120.00 
+ANew35069,Ashley,Newman,Florida,05/01/1996, $750.00 
+ARoy35751,Ashley,Roy,New York,17/11/1997, $258.00 
+AWeb35527,Audrey,Webb,Pennsylvania,07/04/1997, $188.00 
+ABro35015,Austin,Brooks,Nebraska,12/11/1995, $124.00 
+AHig33530,Austin,Higgins,Arkansas,19/10/1991, $90.00 
+APet34431,Austin,Peterson,Montana,07/04/1994, $100.00 
+BPad35164,Barry,Padilla,South Dakota,09/04/1996, $116.00 
+BTho35768,Barry,Thornton,California,04/12/1997, $577.00 
+BSte36027,Beatrice,Stevens,Connecticut,20/08/1998, $654.00 
+BAnd36210,Becky,Anderson,Hawaii,19/02/1999, $100.00 
+BHal33325,Becky,Hall,Florida,28/03/1991, $225.00 
+BFor33494,Belinda,Ford,Utah,13/09/1991, $394.00 
+BMcc33661,Bennie,Mccoy,California,27/02/1992, $580.00 
+BMac35295,Benny,Mack,California,18/08/1996, $659.00 
+BHow33871,Bernadette,Howard,California,24/09/1992, $78.00 
+BCla33824,Bernard,Clark,Florida,08/08/1992, $64.00 
+BVas35145,Bernard,Vasquez,New York,21/03/1996, $298.00 
+BMcc34910,Bernice,Mccormick,Pennsylvania,30/07/1995, $725.00 
+BSan33897,Bernice,Sanders,New York,20/10/1992, $293.00 
+BJac35064,Bertha,Jackson,New Hampshire,31/12/1995, $515.00 
+BCla34739,Beth,Clarke,California,09/02/1995, $790.40 
+BHof34300,Beth,Hoffman,Florida,27/11/1993, $225.00 
+BJac33475,Beth,Jacobs,Texas,25/08/1991, $173.00 
+BOls35932,Bethany,Olson,New York,17/05/1998, $100.00 
+BCha36411,Betsy,Chambers,Florida,08/09/1999, $70.00 
+BRow33736,Betty,Rowe,California,12/05/1992, $702.00 
+BDaw33361,Beulah,Dawson,Florida,03/05/1991, $75.00 
+BKel34200,Beulah,Kelly,Tennessee,19/08/1993, $60.00 
+BBai34526,Beverly,Bailey,Nebraska,11/07/1994, $124.00 
+BBoo34731,Bill,Boone,California,01/02/1995, $667.00 
+BPor35105,Billy,Porter,Kentucky,10/02/1996, $160.00 
+BDou36247,Bobbie,Douglas,Minnesota,28/03/1999, $374.00 
+BKim33512,Bonnie,Kim,New York,01/10/1991, $346.00 
+BPat35876,Bonnie,Patrick,Ohio,22/03/1998, $108.00 
+BFar36033,Boyd,Farmer,Illinois,26/08/1998, $277.00 
+BWil34189,Bradley,Wilson,Florida,08/08/1993, $124.00 
+BBar34131,Brandi,Barton,Utah,11/06/1993, $299.00 
+BGar36284,Brandon,Garrett,Texas,04/05/1999, $118.00 
+BBas33848,Brent,Bass,California,01/09/1992, $115.00 
+BPot34686,Brett,Potter,Iowa,18/12/1994, $425.00 
+BTod35862,Brian,Todd,Arkansas,08/03/1998, $160.00 
+BEll34307,Bridget,Elliott,Florida,04/12/1993, $136.00 
+BPet33726,Brittany,Peterson,New Jersey,02/05/1992, $25.00 
+BYou34501,Brittany,Young,California,16/06/1994, $25.00 
+BMcc36353,Brooke,Mccarthy,Rhode Island,12/07/1999, $142.00 
+BMan33313,Bryan,Manning,Mississippi,16/03/1991, $160.00 
+BMar34841,Bryant,Martin,California,22/05/1995, $214.00 
+BMed34532,Bryant,Medina,Connecticut,17/07/1994, $125.00 
+BFig36185,Byron,Figueroa,New Jersey,25/01/1999, $125.00 
+CJim34289,Calvin,Jimenez,Minnesota,16/11/1993, $214.00 
+CRos35934,Camille,Rose,Florida,19/05/1998, $225.00 
+CRus35410,Camille,Russell,Louisiana,11/12/1996, $210.00 
+CCha35379,Carlos,Chandler,California,10/11/1996, $576.00 
+CMar34031,Carlton,Martinez,Virginia,03/03/1993, $476.00 
+CSch34344,Carol,Schneider,California,10/01/1994, $652.00 
+CWhe34700,Carol,Wheeler,Florida,01/01/1995, $66.00 
+CHar33929,Carroll,Harrington,Tennessee,21/11/1992, $176.00 
+CLyn35197,Carroll,Lynch,Utah,12/05/1996, $172.00 
+CDea34074,Cary,Dean,Tennessee,15/04/1993, $84.00 
+COls36398,Cary,Olson,Iowa,26/08/1999, $95.00 
+CBri33495,Casey,Briggs,District of Columbia,14/09/1991, $225.00 
+CSta33463,Casey,Stanley,Vermont,13/08/1991, $144.00 
+CWag35389,Casey,Wagner,California,20/11/1996, $576.00 
+CWal35272,Casey,Walsh,Pennsylvania,26/07/1996, $725.00 
+CMor35519,Cassandra,Morton,Florida,30/03/1997, $225.00 
+CMax33857,Cecelia,Maxwell,Florida,10/09/1992, $225.00 
+CMcc35020,Cecelia,Mccarthy,New York,17/11/1995, $398.00 
+CTuc36521,Cecilia,Tucker,Indiana,27/12/1999, $90.00 
+CCha35860,Cesar,Chambers,Indiana,06/03/1998, $124.00 
+CWea35519,Cesar,Weaver,California,30/03/1997, $973.60 
+CMun35273,Chad,Munoz,Texas,27/07/1996, $207.00 
+CPer34915,Chad,Perry,Maine,04/08/1995, $70.00 
+CWal33485,Chad,Wallace,Massachusetts,04/09/1991, $325.00 
+CJon36050,Charlene,Jones,Texas,12/09/1998, $159.00 
+CSpa34375,Charlene,Sparks,California,10/02/1994," $1,344.00 "
+CEst33981,Charlie,Estrada,Maryland,12/01/1993, $400.00 
+CMan35240,Charlie,Manning,California,24/06/1996, $659.00 
+CCal34296,Cheryl,Caldwell,Virginia,23/11/1993, $263.00 
+CFlo35606,Cheryl,Floyd,California,25/06/1997, $70.00 
+CLin35207,Chester,Lindsey,California,22/05/1996, $72.00 
+CTer34348,Chris,Terry,New York,14/01/1994, $323.00 
+CBry33396,Christie,Bryant,California,07/06/1991, $640.00 
+CJen35504,Christie,Jenkins,Texas,15/03/1997, $107.00 
+CWoo34720,Christie,Woods,New Jersey,21/01/1995, $100.00 
+CAnd33374,Christine,Andrews,New York,16/05/1991, $357.00 
+CHol33858,Christine,Holmes,Utah,11/09/1992, $355.00 
+CSwa35095,Christopher,Swanson,West Virginia,31/01/1996, $75.00 
+CGuz34418,Cindy,Guzman,California,25/03/1994, $25.00 
+CSin34174,Cindy,Singleton,Illinois,24/07/1993, $293.00 
+CDay36032,Claire,Day,North Dakota,25/08/1998, $142.00 
+CShe35428,Claire,Sherman,Florida,29/12/1996, $225.00 
+CCob34399,Clarence,Cobb,Missouri,06/03/1994, $124.00 
+COsb35736,Clark,Osborne,Oregon,02/11/1997, $725.00 
+CDoy35111,Clay,Doyle,North Carolina,16/02/1996, $160.00 
+CCra34398,Clayton,Craig,New York,05/03/1994, $176.00 
+CDea35531,Clifford,Dean,Vermont,11/04/1997, $63.00 
+CHar34743,Clyde,Harrington,California,13/02/1995, $55.00 
+CCha34140,Colin,Chavez,Montana,20/06/1993, $68.00 
+CMye33422,Colin,Myers,California,03/07/1991, $67.50 
+CSta34748,Colin,Stanley,New Mexico,18/02/1995, $160.00 
+CMat34216,Colleen,Mathis,Kansas,04/09/1993, $95.00 
+CFow33469,Connie,Fowler,Michigan,19/08/1991, $58.30 
+CHal34697,Constance,Hale,New York,29/12/1994, $197.00 
+CMen36338,Constance,Mendez,Florida,27/06/1999, $64.00 
+CStr33254,Constance,Strickland,Rhode Island,16/01/1991, $248.00 
+CWil35120,Constance,Williams,Florida,25/02/1996, $100.00 
+CMil34506,Cory,Mills,Florida,21/06/1994, $750.00 
+CPat34767,Courtney,Patrick,New Mexico,09/03/1995, $160.00 
+CTra34308,Craig,Tran,California,05/12/1993," $1,342.80 "
+CKel33517,Cristina,Kelly,Florida,06/10/1991, $128.00 
+CMul35087,Cristina,Mullins,Georgia,23/01/1996, $132.00 
+CShe35968,Cristina,Sherman,Georgia,22/06/1998, $176.00 
+CSot36135,Cristina,Soto,Connecticut,06/12/1998, $700.00 
+CMas35779,Curtis,Mason,California,15/12/1997, $75.00 
+DGri34464,Daisy,Griffith,California,10/05/1994, $25.00 
+DBar33800,Dale,Barker,Arizona,15/07/1992, $73.00 
+DFra34631,Damon,Frank,Iowa,24/10/1994, $95.00 
+DSul34676,Damon,Sullivan,California,08/12/1994," $1,346.40 "
+DCha34797,Dana,Chavez,Florida,08/04/1995, $225.00 
+DFle35373,Dana,Fleming,Massachusetts,04/11/1996, $325.00 
+DRod35974,Dana,Rodriguez,Massachusetts,28/06/1998, $400.00 
+DRui34383,Dana,Ruiz,Florida,18/02/1994, $150.00 
+DWal35196,Dana,Walton,Arizona,11/05/1996, $56.10 
+DCla36494,Danielle,Clark,Florida,30/11/1999, $160.00 
+DOrt33576,Danielle,Ortega,Connecticut,04/12/1991, $783.75 
+DMcd33521,Danny,Mcdonald,Florida,10/10/1991, $65.00 
+DGil35155,Darla,Gill,Florida,31/03/1996, $136.00 
+DGon35320,Darla,Gonzalez,New York,12/09/1996, $257.00 
+DHen34992,Darlene,Henry,Texas,20/10/1995," $1,250.00 "
+DKim33901,Darlene,Kim,Florida,24/10/1992, $55.20 
+DLee33625,Darlene,Lee,Oklahoma,22/01/1992, $75.00 
+DWoo34939,Darnell,Wood,New Jersey,28/08/1995, $25.00 
+DHow35319,Darrel,Howard,Florida,11/09/1996, $66.00 
+DOwe33629,Darrel,Owen,California,26/01/1992, $892.80 
+DGon35074,Darrell,Gonzales,Florida,10/01/1996, $225.00 
+DZim34576,Darrell,Zimmerman,Texas,30/08/1994, $109.00 
+DCol34825,Darren,Collier,New York,06/05/1995, $319.00 
+DMoo34258,Darren,Moody,Arizona,16/10/1993, $70.00 
+DHam35908,Darrin,Hampton,Florida,23/04/1998, $64.00 
+DCar36468,Darryl,Carroll,Idaho,04/11/1999, $450.00 
+DWil33575,Darryl,Williamson,Iowa,03/12/1991, $83.00 
+DMur34189,Dave,Murray,Mississippi,08/08/1993, $200.00 
+DWad34977,Dave,Wade,Texas,05/10/1995, $96.00 
+DSim36051,David,Simmons,Texas,13/09/1998, $220.00 
+DWel34848,David,Welch,California,29/05/1995, $25.00 
+DMcd34397,Dawn,Mcdaniel,Texas,04/03/1994, $99.00 
+DEva33565,Dean,Evans,Kentucky,23/11/1991, $90.00 
+DRay35543,Dean,Ray,California,23/04/1997, $920.00 
+DAlv35434,Deanna,Alvarez,Alabama,04/01/1997, $90.00 
+DGre35706,Debbie,Greer,South Carolina,03/10/1997, $136.00 
+DVau34719,Deborah,Vaughn,Florida,20/01/1995, $225.00 
+DHol33498,Delbert,Holt,Florida,17/09/1991, $225.00 
+DSte36426,Delbert,Steele,Mississippi,23/09/1999, $160.00 
+DGeo33419,Delia,George,California,30/06/1991, $25.00 
+DHin33455,Delia,Hines,California,05/08/1991, $778.05 
+DRob35522,Delia,Robertson,District of Columbia,02/04/1997, $692.00 
+DFar32799,Delores,Farmer,North Dakota,18/10/1989, $250.00 
+DLit30221,Denise,Little,New York,27/09/1982, $167.00 
+DNgu31181,Dennis,Nguyen,California,14/05/1985, $25.00 
+DWri29863,Dennis,Wright,Wisconsin,04/10/1981, $115.00 
+DCam30713,Derek,Campbell,Nevada,01/02/1984, $111.00 
+DBis30010,Derrick,Bishop,South Dakota,28/02/1982, $58.50 
+DRam31159,Devin,Ramos,Missouri,22/04/1985, $70.00 
+DPad31211,Dewey,Padilla,New York,13/06/1985, $385.00 
+DWal30294,Dexter,Walton,New York,09/12/1982, $199.00 
+DGre30934,Diane,Gregory,Pennsylvania,09/09/1984, $162.00 
+DMcc29856,Diane,Mccormick,New York,27/09/1981, $302.00 
+DTho30415,Diane,Thompson,New York,09/04/1983, $121.00 
+DBra32797,Dianna,Bradley,Kansas,16/10/1989, $95.00 
+DFra30131,Dianna,Frazier,California,29/06/1982, $55.00 
+DLaw30751,Dianna,Lawrence,Illinois,10/03/1984, $164.00 
+DBar31581,Dianne,Barker,Nebraska,18/06/1986, $97.00 
+DHig31437,Dianne,Higgins,Michigan,25/01/1986, $425.00 
+DJen31471,Dolores,Jensen,Idaho,28/02/1986, $175.00 
+DAgu30034,Domingo,Aguilar,Alabama,24/03/1982, $160.00 
+DFre31833,Dominic,French,New Hampshire,25/02/1987, $457.00 
+DObr30677,Dominic,Obrien,California,27/12/1983, $796.00 
+DHod32400,Don,Hodges,Illinois,14/09/1988, $112.00 
+DAle29924,Dora,Alexander,Kansas,04/12/1981, $84.00 
+DSte30346,Dora,Steele,Maine,30/01/1983, $75.00 
+DFit30279,Doreen,Fitzgerald,Texas,24/11/1982, $152.00 
+DMck30671,Doreen,Mckenzie,New Jersey,21/12/1983, $125.00 
+DCas30382,Dorothy,Castillo,Texas,07/03/1983, $243.00 
+DArm31362,Doug,Armstrong,Florida,11/11/1985, $90.00 
+DHar32339,Douglas,Hardy,California,15/07/1988, $70.00 
+DMcc30551,Douglas,Mccormick,New York,23/08/1983, $124.00 
+DWat30218,Douglas,Watts,California,24/09/1982, $659.00 
+DRya30235,Drew,Ryan,South Carolina,11/10/1982, $68.00 
+DGre31907,Duane,Green,Minnesota,10/05/1987, $206.00 
+DYat31564,Duane,Yates,Texas,01/06/1986, $101.00 
+DRod31290,Dwayne,Rodriquez,California,31/08/1985, $25.00 
+DVas32383,Dwayne,Vasquez,Illinois,28/08/1988, $322.00 
+DHar32173,Dwight,Harper,West Virginia,31/01/1988, $180.00 
+EHow30825,Ebony,Howard,West Virginia,23/05/1984, $160.00 
+EDia30666,Ed,Diaz,California,16/12/1983," $1,331.84 "
+ESim32838,Ed,Simon,Montana,26/11/1989, $54.00 
+ECon31770,Edgar,Conner,California,24/12/1986, $25.00 
+EDra31494,Edith,Drake,California,23/03/1986, $914.40 
+ERei29858,Edith,Reid,Montana,29/09/1981, $150.00 
+EBar31302,Edna,Barnett,New Jersey,12/09/1985," $1,773.52 "
+ELaw30845,Edward,Lawson,California,12/06/1984, $225.00 
+ELyn32430,Edward,Lynch,California,14/10/1988, $25.00 
+EGon31028,Edwin,Gonzalez,California,12/12/1984, $25.00 
+EWar32786,Edwin,Warren,Illinois,05/10/1989, $205.00 
+ERom30807,Eileen,Romero,Rhode Island,05/05/1984, $113.00 
+ELun31807,Elaine,Luna,District of Columbia,30/01/1987, $601.00 
+EBen30980,Elbert,Bennett,New Jersey,25/10/1984, $25.00 
+EDra29816,Elbert,Drake,California,18/08/1981, $25.00 
+EMen29644,Eleanor,Mendoza,Illinois,27/02/1981, $134.00 
+EWat29606,Elena,Watts,Texas,20/01/1981, $65.00 
+EBis30860,Elisa,Bishop,Illinois,27/06/1984, $264.00 
+EBre32267,Elisa,Brewer,Washington,04/05/1988, $251.00 
+EBar30780,Elizabeth,Barber,Oklahoma,08/04/1984, $57.00 
+ETow29769,Elmer,Townsend,Iowa,02/07/1981, $64.00 
+EBow31579,Eloise,Bowers,California,16/06/1986, $125.00 
+EAnd32416,Elsie,Andrews,New Hampshire,30/09/1988, $259.00 
+EKim31193,Elvira,Kim,California,26/05/1985, $916.20 
+EMur32280,Elvira,Murphy,Pennsylvania,17/05/1988, $84.00 
+EYat30074,Emily,Yates,Missouri,03/05/1982, $70.00 
+EWoo30051,Emmett,Woods,Ohio,10/04/1982, $425.00 
+EPar32441,Erick,Park,Illinois,25/10/1988, $291.00 
+EWat31172,Erik,Watson,Texas,05/05/1985," $1,250.00 "
+EFor30710,Erin,Ford,Florida,29/01/1984, $225.00 
+EAbb30728,Ernestine,Abbott,California,16/02/1984, $957.60 
+EFer31056,Ernesto,Ferguson,Kansas,09/01/1985, $425.00 
+EMit30704,Ernesto,Mitchell,Florida,23/01/1984, $56.00 
+EPop31695,Ervin,Pope,New Jersey,10/10/1986, $100.00 
+ERod30682,Ervin,Rodriguez,Massachusetts,01/01/1984, $500.00 
+ESan30045,Essie,Sandoval,California,04/04/1982, $71.00 
+EWis31563,Essie,Wise,North Dakota,31/05/1986, $425.00 
+EHar30831,Estelle,Harrington,Texas,29/05/1984," $1,250.00 "
+EGar32730,Esther,Garner,Maine,10/08/1989, $55.20 
+EBut32681,Ethel,Butler,Texas,22/06/1989, $96.00 
+EBen31284,Eugene,Bennett,Connecticut,25/08/1985, $125.00 
+ECha30939,Eunice,Chambers,South Dakota,14/09/1984, $160.00 
+ECol31469,Eunice,Collins,Indiana,26/02/1986, $66.00 
+ECai32866,Evan,Cain,Florida,24/12/1989, $225.00 
+ESte31216,Evan,Stephens,Pennsylvania,18/06/1985, $725.00 
+ECol29652,Evelyn,Collins,Ohio,07/03/1981, $200.00 
+ENic29780,Evelyn,Nichols,New York,13/07/1981, $215.00 
+FRos31726,Faith,Rose,California,10/11/1986, $25.00 
+FOrt30919,Fannie,Ortiz,Florida,25/08/1984, $55.00 
+FChr31801,Faye,Christensen,Arizona,24/01/1987, $752.00 
+FRey32611,Faye,Reynolds,Colorado,13/04/1989, $388.00 
+FGon31972,Felicia,Gonzales,New Jersey,14/07/1987, $75.00 
+FMos30194,Felipe,Moss,Florida,31/08/1982, $56.00 
+FSim30167,Felipe,Simon,North Carolina,04/08/1982, $124.00 
+FBat30760,Felix,Bates,Texas,19/03/1984, $194.00 
+FFlo31763,Fernando,Floyd,Washington,17/12/1986, $436.00 
+FVar29606,Fernando,Vargas,Connecticut,20/01/1981, $75.00 
+FLow30040,Flora,Lowe,Florida,30/03/1982, $64.00 
+FQui29785,Floyd,Quinn,New Jersey,18/07/1981," $1,484.00 "
+FCra32265,Forrest,Crawford,New York,02/05/1988, $390.00 
+FOli32844,Frances,Oliver,New York,02/12/1989, $143.00 
+FCha30311,Frank,Chandler,Illinois,26/12/1982," $1,000.00 "
+FCor30598,Frank,Cortez,Oklahoma,09/10/1983, $500.00 
+FAlv30177,Frankie,Alvarez,Texas,14/08/1982, $204.00 
+FWal32327,Fred,Walker,North Dakota,03/07/1988, $90.00 
+FMey30422,Frederick,Meyer,District of Columbia,16/04/1983, $125.00 
+FMor30945,Frederick,Morales,California,20/09/1984, $25.00 
+FRiv31873,Frederick,Rivera,Texas,06/04/1987," $1,250.00 "
+GCur31414,Gail,Curry,Pennsylvania,02/01/1986, $62.00 
+GGlo31490,Gail,Glover,New Jersey,19/03/1986, $25.00 
+GJac30371,Gail,Jackson,Texas,24/02/1983, $103.00 
+GWon29755,Gail,Wong,New Jersey,18/06/1981, $165.00 
+GCol31495,Garrett,Cole,New Mexico,24/03/1986, $70.00 
+GMac32293,Garry,Mack,Missouri,30/05/1988, $200.00 
+GSul31333,Garry,Sullivan,Colorado,13/10/1985, $748.00 
+GGib31559,Gary,Gibson,California,27/05/1986, $97.00 
+GHog31244,Gayle,Hogan,Arkansas,16/07/1985, $90.00 
+GLam31350,Gene,Lambert,Oregon,30/10/1985, $125.00 
+GMat29928,Genevieve,Matthews,Texas,08/12/1981," $1,250.00 "
+GTho32825,George,Thornton,California,13/11/1989, $25.00 
+GHal31417,Gerald,Hall,Florida,05/01/1986, $225.00 
+GDun31858,Geraldine,Dunn,Tennessee,22/03/1987, $75.00 
+GShe32443,Geraldine,Sherman,Vermont,27/10/1988, $725.00 
+GOwe31291,Gerard,Owens,California,01/09/1985," $1,330.56 "
+GLyo30058,Gerardo,Lyons,Wisconsin,17/04/1982, $107.00 
+GHar30412,Gertrude,Hardy,Utah,06/04/1983, $206.00 
+GKni30906,Gertrude,Knight,Pennsylvania,12/08/1984, $185.00 
+GFra31311,Gilbert,Frank,Louisiana,21/09/1985, $180.00 
+GGeo30997,Gilbert,George,Alaska,11/11/1984, $273.00 
+GFlo29798,Ginger,Flores,New Jersey,31/07/1981, $90.00 
+GRay30082,Ginger,Ray,Massachusetts,11/05/1982, $828.80 
+GWar30467,Gladys,Ward,Texas,31/05/1983," $1,250.00 "
+GRay31403,Glen,Ray,New York,22/12/1985, $388.00 
+GGri30406,Gloria,Griffith,North Carolina,31/03/1983, $56.40 
+GNas30784,Gloria,Nash,Ohio,12/04/1984, $57.00 
+GAlv30349,Grace,Alvarado,Kentucky,02/02/1983, $160.00 
+GBai30656,Grace,Bailey,New Jersey,06/12/1983, $528.00 
+GDav30494,Grace,Davidson,California,27/06/1983, $640.00 
+GJor32082,Grady,Jordan,Kentucky,01/11/1987, $160.00 
+GMos31270,Greg,Moss,Indiana,11/08/1985, $78.00 
+GLuc30989,Gregg,Lucas,Florida,03/11/1984, $225.00 
+GLow29892,Gregory,Lowe,California,02/11/1981, $25.00 
+GCur31094,Guadalupe,Curtis,Illinois,16/02/1985, $77.00 
+GCun30959,Gustavo,Cunningham,Colorado,04/10/1984, $652.00 
+GHol32393,Gustavo,Holt,West Virginia,07/09/1988, $225.00 
+GJac31244,Gustavo,Jacobs,Missouri,16/07/1985, $75.00 
+GTyl31588,Gwen,Tyler,Utah,25/06/1986, $473.00 
+GMar31466,Gwendolyn,Marsh,Pennsylvania,23/02/1986, $179.00 
+HPhi31337,Hannah,Phillips,Wisconsin,17/10/1985, $120.00 
+HByr30270,Harold,Byrd,Florida,15/11/1982, $120.00 
+HPow30843,Harry,Powers,New York,10/06/1984, $242.00 
+HBal31722,Harvey,Ballard,California,06/11/1986, $25.00 
+HCha30721,Harvey,Chapman,Texas,09/02/1984," $1,250.00 "
+HPer29856,Harvey,Perry,Florida,27/09/1981, $68.00 
+HHar29629,Helen,Hart,Wisconsin,12/02/1981, $114.00 
+HWhe31715,Helen,Wheeler,Tennessee,30/10/1986, $150.00 
+HCur30183,Henry,Curry,Virginia,20/08/1982, $294.00 
+HGar30997,Henry,Gardner,Texas,11/11/1984, $115.00 
+HHar30056,Herman,Harvey,Arkansas,15/04/1982, $75.00 
+HHer32051,Herman,Herrera,Massachusetts,01/10/1987, $513.00 
+HWil29774,Hilda,Wilson,South Dakota,07/07/1981, $90.00 
+HCor32394,Holly,Cortez,Michigan,08/09/1988, $425.00 
+HPau31885,Holly,Paul,Wyoming,18/04/1987, $55.20 
+HHow32038,Homer,Howard,Alaska,18/09/1987, $449.00 
+HGib30018,Horace,Gibbs,Texas,08/03/1982, $106.00 
+HRey30323,Hubert,Reyes,California,07/01/1983, $25.00 
+HWol32109,Hubert,Wolfe,Texas,28/11/1987, $101.00 
+HArn30123,Hugh,Arnold,Georgia,21/06/1982, $87.00 
+HPar32296,Hugo,Parsons,Texas,02/06/1988, $178.00 
+IWea30280,Ida,Weaver,Texas,25/11/1982, $54.00 
+ISte30383,Ignacio,Stephens,New York,08/03/1983, $106.00 
+IWas31226,Inez,Washington,Ohio,28/06/1985, $104.00 
+IWel32421,Inez,Wells,Florida,05/10/1988, $128.00 
+ISim32074,Ira,Simmons,Georgia,24/10/1987, $69.00 
+IMan30269,Iris,Mann,Texas,14/11/1982, $167.00 
+IFor30728,Irving,Ford,Delaware,16/02/1984, $235.00 
+IOrt31170,Irving,Ortega,Kentucky,03/05/1985, $144.00 
+IGra31154,Isaac,Grant,Kansas,17/04/1985, $95.00 
+ICar30088,Ismael,Carter,New Jersey,17/05/1982, $821.60 
+IRee31409,Ismael,Reese,Illinois,28/12/1985, $145.00 
+IHod32290,Israel,Hodges,Iowa,27/05/1988, $95.00 
+IPat31602,Ivan,Patterson,Nebraska,09/07/1986, $750.00 
+JBar32533,Jack,Barrett,Rhode Island,25/01/1989, $166.00 
+JDia31479,Jackie,Diaz,Florida,08/03/1986, $56.10 
+JLaw30319,Jackie,Lawson,Alabama,03/01/1983, $78.00 
+JGom30843,Jacqueline,Gomez,Connecticut,10/06/1984, $605.00 
+JGre31837,Jacquelyn,Gregory,California,01/03/1987, $25.00 
+JNew29729,Jacquelyn,Newton,California,23/05/1981, $790.00 
+JCla29911,Jaime,Clarke,Tennessee,21/11/1981, $70.00 
+JRob31529,Jaime,Roberson,California,27/04/1986, $75.00 
+JHop30167,James,Hopkins,Connecticut,04/08/1982, $62.00 
+JWar32390,James,Ward,Michigan,04/09/1988, $425.00 
+JSch29593,Jamie,Schultz,Wyoming,07/01/1981, $108.00 
+JTod31786,Jane,Todd,Utah,09/01/1987, $432.00 
+JRob31270,Janice,Roberts,Massachusetts,11/08/1985, $651.00 
+JWag31392,Janie,Wagner,Indiana,11/12/1985, $90.00 
+JGut31737,Jared,Gutierrez,Illinois,21/11/1986, $91.00 
+JPer29683,Jared,Perkins,California,07/04/1981, $64.00 
+JAlv31999,Jasmine,Alvarado,Vermont,10/08/1987, $136.00 
+JBuc29640,Jasmine,Buchanan,California,23/02/1981, $25.00 
+JRod32229,Jasmine,Rodriguez,Louisiana,27/03/1988, $160.00 
+JHar29803,Javier,Hardy,California,05/08/1981, $25.00 
+JFra30243,Jean,Frank,Minnesota,19/10/1982, $285.00 
+JMcc32571,Jean,Mccarthy,Alabama,04/03/1989, $160.00 
+JRee29587,Jean,Reed,Texas,01/01/1981, $62.00 
+JGoo31948,Jeanette,Goodwin,New Mexico,20/06/1987, $180.00 
+JAll30948,Jeanne,Allison,Texas,23/09/1984, $83.00 
+JGon31779,Jeanne,Gonzales,Delaware,02/01/1987, $145.00 
+JCol30281,Jeannette,Collins,Florida,26/11/1982, $69.00 
+JBla29903,Jeannie,Blake,Louisiana,13/11/1981, $90.00 
+JWat29702,Jeannie,Watts,Virginia,26/04/1981, $375.00 
+JMas30025,Jeff,Massey,Pennsylvania,15/03/1982, $725.00 
+JMon31985,Jeff,Montgomery,New Mexico,27/07/1987, $144.00 
+JKel32718,Jeffrey,Kelly,Texas,29/07/1989, $233.00 
+JSul29966,Jeffrey,Sullivan,New Jersey,15/01/1982, $25.00 
+JJoh30583,Jenna,Johnston,Pennsylvania,24/09/1983, $160.00 
+JEll30213,Jennie,Ellis,California,19/09/1982, $87.00 
+JCox30140,Jerald,Cox,North Carolina,08/07/1982, $90.00 
+JBut31079,Jeremiah,Butler,California,01/02/1985, $527.00 
+JFle29687,Jeremiah,Fletcher,Pennsylvania,11/04/1981, $122.00 
+JFra29940,Jeremiah,Frank,Florida,20/12/1981, $75.00 
+JHar29822,Jeremiah,Harvey,Illinois,24/08/1981, $220.00 
+JTay30122,Jeremy,Taylor,California,20/06/1982, $652.00 
+JRob31770,Jerome,Roberson,Illinois,24/12/1986, $200.00 
+JCol32249,Jerry,Cole,Alabama,16/04/1988, $70.00 
+JBow30443,Jesse,Bowen,Delaware,07/05/1983, $217.00 
+JGom30369,Jessica,Gomez,Pennsylvania,22/02/1983, $104.00 
+JPer32136,Jessie,Perez,California,25/12/1987, $890.15 
+JSpe32648,Jessie,Spencer,Maryland,20/05/1989, $750.00 
+JSte32212,Jessie,Stevenson,Texas,10/03/1988, $115.00 
+JFor31143,Jesus,Ford,North Dakota,06/04/1985, $143.00 
+JWar29907,Jesus,Ward,Delaware,17/11/1981, $750.00 
+JWol29930,Jesus,Wolfe,Florida,10/12/1981, $54.00 
+JJen30805,Jill,Jenkins,Missouri,03/05/1984, $60.00 
+JPop31570,Jill,Pope,Illinois,07/06/1986, $957.00 
+JBra31751,Jimmie,Bradley,South Carolina,05/12/1986, $125.00 
+JWis30546,Jimmy,Wise,Texas,18/08/1983, $213.00 
+JHun32553,Jo,Hunter,New York,14/02/1989, $111.00 
+JJim30344,Jo,Jimenez,New Jersey,28/01/1983, $25.00 
+JAll30456,Joann,Allison,Pennsylvania,20/05/1983, $82.00 
+JTow30467,Joann,Townsend,Nebraska,31/05/1983, $124.00 
+JYat31845,Joann,Yates,Alaska,09/03/1987, $274.00 
+JZim32615,Joanna,Zimmerman,Wisconsin,17/04/1989, $120.00 
+JAdk31882,Joanne,Adkins,Florida,15/04/1987, $128.00 
+JAll29966,Joanne,Allen,New York,15/01/1982, $214.00 
+JAnd30570,Joanne,Andrews,Arizona,11/09/1983, $176.00 
+JFos32095,Jody,Foster,Illinois,14/11/1987," $2,500.00 "
+JGon30788,Jody,Gonzales,New York,16/04/1984, $368.00 
+JAll32604,Joey,Allen,Virginia,06/04/1989, $341.00 
+JWil29776,Joey,Willis,New York,09/07/1981, $140.00 
+JEst32782,Johanna,Estrada,New Jersey,01/10/1989," $1,000.00 "
+JWat32367,Johanna,Watkins,Illinois,12/08/1988, $277.00 
+JMit32001,John,Mitchell,New Hampshire,12/08/1987, $299.00 
+JPag31054,John,Page,Rhode Island,07/01/1985, $203.00 
+JWel32216,John,Wells,California,14/03/1988, $916.80 
+JBoy31926,Johnny,Boyd,Oklahoma,29/05/1987, $125.00 
+JBuc31612,Jon,Buchanan,Florida,19/07/1986, $124.00 
+JLit30836,Jon,Little,Illinois,03/06/1984," $5,250.00 "
+JBec29701,Jonathan,Becker,Texas,25/04/1981, $132.00 
+JHar30401,Jonathon,Harris,Oklahoma,26/03/1983, $200.00 
+JWon32174,Jonathon,Wong,Illinois,01/02/1988, $235.00 
+JWar29926,Jordan,Ward,Hawaii,06/12/1981, $75.00 
+JRod30317,Jorge,Rodgers,New Hampshire,01/01/1983, $565.00 
+JGar30250,Jose,Gardner,New Jersey,26/10/1982, $250.00 
+JGon31917,Jose,Gonzalez,Wisconsin,20/05/1987, $85.00 
+JNew30708,Jose,Newton,Minnesota,27/01/1984, $313.00 
+JCas30656,Josh,Casey,Alaska,06/12/1983, $295.00 
+JHam30589,Joshua,Hamilton,Georgia,30/09/1983, $75.00 
+JPit31471,Joshua,Pittman,California,28/02/1986, $68.00 
+JMcg31682,Joyce,Mcguire,New York,27/09/1986, $360.00 
+JPau31285,Joyce,Paul,New Hampshire,26/08/1985, $366.00 
+JCoh31509,Juana,Cohen,California,07/04/1986," $1,355.76 "
+JNea29976,Judith,Neal,Colorado,25/01/1982, $367.00 
+JZim32465,Judith,Zimmerman,New Jersey,18/11/1988, $25.00 
+JLog29755,Julian,Logan,Pennsylvania,18/06/1981, $218.00 
+JWil30609,Julian,Wilson,New York,20/10/1983, $213.00 
+JBla31873,Julie,Black,Pennsylvania,06/04/1987, $141.00 
+JCur30423,Julio,Curtis,New Hampshire,17/04/1983, $397.00 
+JGon32126,Julio,Gonzalez,New York,15/12/1987, $230.00 
+JFos31307,Julius,Foster,Florida,17/09/1985, $225.00 
+JMor31403,June,Morrison,Florida,22/12/1985, $58.00 
+JGeo30831,Justin,George,Florida,29/05/1984, $225.00 
+JHop32676,Justin,Hopkins,Minnesota,17/06/1989, $150.00 
+JRoy32653,Justin,Roy,Pennsylvania,25/05/1989, $83.00 
+KCar31258,Kara,Carroll,New York,30/07/1985, $115.00 
+KLew30509,Kara,Lewis,Alaska,12/07/1983, $508.00 
+KWil30805,Karen,Wilkerson,Texas,03/05/1984, $79.00 
+KSim32564,Kari,Sims,Florida,25/02/1989, $225.00 
+KWel31583,Karla,Wells,New York,20/06/1986, $111.00 
+KAus31090,Kate,Austin,Maryland,12/02/1985, $325.00 
+KBec30713,Kathryn,Beck,Virginia,01/02/1984, $472.00 
+KMcd30658,Kathryn,Mcdaniel,Illinois,08/12/1983, $750.00 
+KTor31514,Kathy,Torres,West Virginia,12/04/1986, $150.00 
+KSny30085,Katie,Snyder,Texas,14/05/1982, $126.00 
+KCai31919,Kellie,Cain,Florida,22/05/1987, $225.00 
+KMor30826,Kelly,Moreno,New York,24/05/1984, $243.00 
+KBar29618,Kenneth,Barton,Texas,01/02/1981, $163.00 
+KLit30235,Kenneth,Little,Michigan,11/10/1982, $70.00 
+KFra32809,Kenny,Franklin,Texas,28/10/1989, $115.00 
+KMcl32294,Kent,Mclaughlin,Texas,31/05/1988, $110.00 
+KNgu29893,Kerry,Nguyen,New York,03/11/1981, $313.00 
+KYou30754,Kerry,Young,Florida,13/03/1984, $75.00 
+KMcg29720,Kim,Mcgee,Hawaii,14/05/1981, $500.00 
+KWil32819,Kim,Williamson,New Jersey,07/11/1989, $928.00 
+KZim30832,Kim,Zimmerman,Texas,30/05/1984, $155.00 
+KLlo32124,Kimberly,Lloyd,California,13/12/1987, $778.05 
+KSch30614,Krista,Schwartz,Idaho,25/10/1983, $61.50 
+KPen31058,Kristin,Pena,California,11/01/1985, $25.00 
+KSan32641,Kristin,Sandoval,Illinois,13/05/1989, $300.00 
+KWol29824,Kristina,Wolfe,New Jersey,26/08/1981, $78.00 
+KRio30074,Kristine,Rios,Iowa,03/05/1982, $63.00 
+KJac30128,Krystal,Jackson,California,26/06/1982, $971.20 
+KGil30429,Kurt,Gill,Texas,23/04/1983, $182.00 
+KBis31027,Kyle,Bishop,Nevada,11/12/1984, $140.00 
+KGar29727,Kyle,Garrett,California,21/05/1981, $75.00 
+LHam32519,Lana,Hammond,Florida,11/01/1989, $66.00 
+LJam30753,Lana,James,Illinois,12/03/1984, $113.00 
+LRya30933,Lana,Ryan,Alaska,08/09/1984, $293.00 
+LCai31982,Larry,Cain,New Jersey,24/07/1987," $1,736.00 "
+LWat30383,Larry,Watkins,New York,08/03/1983, $279.00 
+LJen30618,Latoya,Jensen,North Dakota,29/10/1983, $187.00 
+LSch30112,Laura,Schultz,California,10/06/1982, $580.00 
+LWal32528,Lauren,Walters,Utah,20/01/1989, $168.00 
+LLit32455,Laurence,Little,California,08/11/1988, $25.00 
+LRom32009,Laurie,Romero,Idaho,20/08/1987, $75.00 
+LShe31415,Lee,Shelton,New York,03/01/1986, $177.00 
+LHar29925,Lela,Harris,Alaska,05/12/1981, $532.00 
+LNic31396,Lela,Nichols,Texas,15/12/1985, $109.00 
+LLyo31155,Leland,Lyons,Rhode Island,18/04/1985, $725.00 
+LMil29738,Leland,Miles,Wyoming,01/06/1981, $130.00 
+LWil30033,Leland,Williamson,New York,23/03/1982, $304.00 
+LMun28290,Lena,Munoz,Delaware,14/06/1977, $235.00 
+LWhi28435,Lena,White,Massachusetts,06/11/1977, $425.00 
+LMil26878,Leo,Miller,Florida,02/08/1973, $750.00 
+LSha28904,Leona,Sharp,Texas,18/02/1979, $82.00 
+LLit27310,Leonard,Little,Maryland,08/10/1974, $225.00 
+LBar26747,Leslie,Barrett,Montana,24/03/1973, $55.20 
+LGar28594,Leslie,Garrett,Delaware,14/04/1978, $425.00 
+LRey27964,Leticia,Reyes,Florida,23/07/1976, $66.00 
+LRod28626,Leticia,Rodgers,Texas,16/05/1978, $144.00 
+LBar28684,Levi,Barnett,Florida,13/07/1978, $750.00 
+LChr27802,Lewis,Christensen,Florida,12/02/1976, $120.00 
+LJoh28154,Lewis,Johnston,Wisconsin,29/01/1977, $176.00 
+LPri26647,Lewis,Price,North Carolina,14/12/1972, $160.00 
+LFer28378,Lila,Fernandez,Florida,10/09/1977, $136.00 
+LHol27335,Lila,Holt,California,02/11/1974, $868.30 
+LMck27693,Lila,Mckenzie,Florida,26/10/1975, $225.00 
+LWil27660,Lillian,Wilkins,Florida,23/09/1975, $58.30 
+LPat28053,Lindsay,Patrick,New York,20/10/1976, $167.00 
+LPar28253,Lindsey,Parker,New York,08/05/1977, $172.00 
+LWil26826,Lindsey,Williamson,California,11/06/1973, $924.80 
+LGre29199,Lionel,Greer,Texas,10/12/1979," $1,250.00 "
+LDan26386,Lisa,Daniels,West Virginia,28/03/1972, $90.00 
+LHer27366,Lisa,Herrera,Nevada,03/12/1974," $1,250.00 "
+LGuz27732,Lloyd,Guzman,California,04/12/1975, $25.00 
+LMar27788,Lloyd,Martinez,Indiana,29/01/1976, $116.00 
+LSha28403,Lloyd,Shaw,Iowa,05/10/1977, $95.00 
+LHer28696,Lois,Hernandez,Florida,25/07/1978, $225.00 
+LTho28773,Lois,Thornton,South Dakota,10/10/1978, $56.10 
+LVas26888,Lois,Vasquez,Connecticut,12/08/1973, $675.00 
+LSan26465,Lola,Sanders,California,15/06/1972," $1,332.72 "
+LNor26771,Lonnie,Norris,Texas,17/04/1973, $175.00 
+LGuz26949,Lora,Guzman,Wisconsin,12/10/1973, $124.00 
+LMcd26523,Lora,Mcdaniel,Alaska,12/08/1972, $445.00 
+LBal27633,Loren,Ball,Illinois,27/08/1975, $246.00 
+LPat28283,Loren,Patterson,Wisconsin,07/06/1977, $124.00 
+LAgu28216,Lorena,Aguilar,Maine,01/04/1977, $180.00 
+LStr27032,Lorena,Strickland,California,03/01/1974," $1,342.08 "
+LTod26114,Lorena,Todd,Colorado,30/06/1971, $320.00 
+LWoo29152,Lorena,Wood,Idaho,24/10/1979, $57.00 
+LMar27230,Lorenzo,Martinez,Florida,20/07/1974, $225.00 
+LMat28767,Loretta,Mathis,Arkansas,04/10/1978, $200.00 
+LPay27701,Loretta,Payne,Louisiana,03/11/1975, $210.00 
+LWal28999,Loretta,Walters,Maine,24/05/1979, $150.00 
+LIng26394,Lori,Ingram,New York,05/04/1972, $176.00 
+LBar29030,Louis,Barrett,Florida,24/06/1979, $124.00 
+LMax26400,Louis,Maxwell,District of Columbia,11/04/1972, $225.00 
+LFre27455,Louise,Freeman,New Jersey,02/03/1975, $68.00 
+LGoo28007,Louise,Goodman,Iowa,04/09/1976, $95.00 
+LRey27863,Louise,Reynolds,Florida,13/04/1976, $58.30 
+LCla27312,Luke,Clarke,California,10/10/1974, $25.00 
+LRic29113,Luther,Richardson,New York,15/09/1979, $297.00 
+LGor26729,Luz,Gordon,Pennsylvania,06/03/1973, $725.00 
+LCla28317,Lydia,Clark,Oregon,11/07/1977, $215.00 
+LHow27178,Lydia,Howell,Florida,29/05/1974, $225.00 
+LMen26045,Lydia,Mendoza,Texas,22/04/1971, $63.00 
+LFer27029,Lynda,Fernandez,Arkansas,31/12/1973, $225.00 
+LUnd26555,Lynette,Underwood,Utah,13/09/1972, $218.00 
+LGar27056,Lynn,Garcia,California,27/01/1974, $25.00 
+LHar28029,Lynn,Hart,Florida,26/09/1976, $225.00 
+LNun28974,Lynn,Nunez,Florida,29/04/1979, $55.20 
+LWes27807,Lynn,West,Alabama,17/02/1976, $120.00 
+LWea26921,Lynne,Weaver,Delaware,14/09/1973, $640.00 
+MLov28775,Mabel,Love,South Carolina,12/10/1978, $64.00 
+MSan27661,Mabel,Santiago,Kansas,24/09/1975, $67.00 
+MMul27721,Mable,Mullins,Virginia,23/11/1975, $222.00 
+MDix27707,Madeline,Dixon,Florida,09/11/1975, $57.60 
+MAll27965,Mae,Allison,California,24/07/1976, $629.00 
+MBar26384,Mae,Barton,South Carolina,26/03/1972, $132.00 
+MMil26760,Malcolm,Mills,Utah,06/04/1973, $344.00 
+MPea26563,Malcolm,Pearson,New Jersey,21/09/1972, $25.00 
+MFra27877,Mamie,Frazier,Nebraska,27/04/1976, $104.00 
+MSut25992,Mandy,Sutton,Florida,28/02/1971, $225.00 
+MChr28591,Marcella,Christensen,Illinois,11/04/1978, $257.00 
+MJoh28398,Marcia,Johnston,Wyoming,30/09/1977, $715.00 
+MWar28174,Marcia,Warner,California,18/02/1977, $25.00 
+MGoo28180,Marco,Goodman,Florida,24/02/1977, $75.00 
+MHor28828,Marco,Horton,Vermont,04/12/1978, $107.00 
+MHil26079,Marcos,Hill,New York,26/05/1971, $319.00 
+MHar28473,Margaret,Harris,Michigan,14/12/1977, $54.00 
+MWal28426,Margarita,Walters,New Jersey,28/10/1977," $1,466.64 "
+MHay26423,Margie,Hayes,Florida,04/05/1972, $63.00 
+MRos28201,Margie,Ross,New Jersey,17/03/1977, $58.00 
+MGut26584,Marguerite,Gutierrez,California,12/10/1972, $25.00 
+MBis27452,Maria,Bishop,Ohio,27/02/1975, $400.00 
+MMal26676,Maria,Malone,Arizona,12/01/1973, $87.00 
+MPoo28840,Maria,Poole,Virginia,16/12/1978, $471.00 
+MGre28159,Marianne,Greer,Georgia,03/02/1977, $750.00 
+MVau27001,Marie,Vaughn,California,03/12/1973, $71.00 
+MFra25958,Mario,Frazier,Ohio,25/01/1971, $180.00 
+MJen28035,Marion,Jenkins,Alaska,02/10/1976, $468.00 
+MSte27247,Marion,Stewart,Montana,06/08/1974, $150.00 
+MFit29031,Marjorie,Fitzgerald,New York,25/06/1979, $364.00 
+MWeb28705,Marjorie,Weber,Illinois,03/08/1978, $161.00 
+MBal27315,Mark,Baldwin,Maine,13/10/1974, $78.00 
+MWil28071,Mark,Wilson,Pennsylvania,07/11/1976, $78.00 
+MLam27219,Marlon,Lambert,Alabama,09/07/1974, $160.00 
+MHal28863,Marsha,Hall,Florida,08/01/1979, $57.00 
+MHar27955,Marsha,Harmon,Wyoming,14/07/1976, $925.00 
+MHar27613,Marshall,Harmon,Vermont,07/08/1975, $102.00 
+MDra29124,Martha,Drake,North Carolina,26/09/1979, $66.00 
+MFis27290,Martin,Fisher,Mississippi,18/09/1974, $90.00 
+MGar28449,Martin,Garcia,Nebraska,20/11/1977, $75.00 
+MObr28123,Mary,Obrien,Florida,29/12/1976, $112.00 
+MRil27012,Mary,Riley,California,14/12/1973, $56.00 
+MSul27693,Mary,Sullivan,Massachusetts,26/10/1975, $545.00 
+MCar28813,Maryann,Carpenter,South Dakota,19/11/1978, $59.40 
+MCas27403,Mattie,Castro,California,09/01/1975, $125.00 
+MWar28827,Mattie,Warner,Washington,03/12/1978, $436.00 
+MDea27995,May,Dean,California,23/08/1976, $25.00 
+MWag28953,Meghan,Wagner,California,08/04/1979, $667.00 
+MPat28110,Melinda,Patterson,Oregon,16/12/1976, $257.00 
+MAnd26122,Melody,Andrews,Kansas,08/07/1971, $95.00 
+MJam26084,Melody,James,Wyoming,31/05/1971, $58.00 
+MSta28374,Mercedes,Stanley,District of Columbia,06/09/1977," $1,422.96 "
+MHen27892,Michael,Henry,Tennessee,12/05/1976, $225.00 
+MGil27858,Michele,Gilbert,Montana,08/04/1976, $160.00 
+MCol28840,Miguel,Collier,Florida,16/12/1978, $750.00 
+MNor27473,Miguel,Norris,Ohio,20/03/1975, $75.00 
+MPay26540,Miguel,Payne,Florida,29/08/1972, $108.00 
+MNor27874,Mike,Norton,Arkansas,24/04/1976, $225.00 
+MTod27566,Mildred,Todd,California,21/06/1975, $25.00 
+MPad28414,Milton,Padilla,California,16/10/1977, $652.00 
+MMcb27718,Minnie,Mcbride,Mississippi,20/11/1975, $90.00 
+MSte28583,Minnie,Stephens,Wyoming,03/04/1978, $118.00 
+MWon26365,Miranda,Wong,California,07/03/1972, $67.50 
+MCha28435,Miriam,Chapman,Pennsylvania,06/11/1977, $139.00 
+MDea27085,Miriam,Dean,New York,25/02/1974, $111.00 
+MGra29135,Miriam,Graves,California,07/10/1979, $25.00 
+MKel28774,Mitchell,Kelley,South Carolina,11/10/1978, $78.00 
+MWeb26673,Mitchell,Webb,Texas,09/01/1973, $150.00 
+MGre26092,Molly,Green,Florida,08/06/1971, $108.00 
+MMul26789,Monica,Mullins,Florida,05/05/1973, $225.00 
+MTra27251,Monica,Tran,Pennsylvania,10/08/1974, $220.00 
+MRog29182,Monique,Rogers,New York,23/11/1979, $118.00 
+MPar28602,Moses,Park,Nevada,22/04/1978, $83.00 
+MHar28244,Muriel,Harrington,Alabama,29/04/1977, $100.00 
+MBar27114,Myra,Barnett,Nevada,26/03/1974, $123.00 
+MMax27539,Myron,Maxwell,Texas,25/05/1975, $234.00 
+MMil26132,Myrtle,Miller,New York,18/07/1971, $144.00 
+MMor26367,Myrtle,Moran,Nevada,09/03/1972, $100.00 
+NGar27026,Nancy,Garza,Nevada,28/12/1973, $100.00 
+NPer26180,Naomi,Perez,California,04/09/1971, $652.00 
+NHen28163,Natalie,Henry,Illinois,07/02/1977, $105.00 
+NFit28730,Natasha,Fitzgerald,Hawaii,28/08/1978, $75.00 
+NMal26963,Natasha,Malone,South Carolina,26/10/1973, $176.00 
+NCur26118,Nathan,Curtis,Washington,04/07/1971, $339.00 
+NLee28376,Nathan,Lee,Pennsylvania,08/09/1977, $185.00 
+NOwe29060,Neil,Owens,Indiana,24/07/1979, $160.00 
+NBer29113,Nellie,Berry,California,15/09/1979, $687.00 
+NRob26652,Nelson,Roberson,Connecticut,19/12/1972, $506.00 
+NRee27173,Nicholas,Reeves,California,24/05/1974, $778.05 
+NMul27701,Nichole,Mullins,Florida,03/11/1975, $75.00 
+NSch27008,Nichole,Schultz,Hawaii,10/12/1973," $1,382.40 "
+NRic28578,Nick,Richardson,West Virginia,29/03/1978, $75.00 
+NFra28042,Nicole,Francis,Texas,09/10/1976, $107.00 
+NHer27970,Nina,Herrera,Nevada,29/07/1976, $85.00 
+NWoo26688,Nina,Woods,Virginia,24/01/1973, $249.00 
+NRho29120,Noel,Rhodes,Wyoming,22/09/1979, $66.00 
+NHic26406,Nora,Hicks,Texas,17/04/1972," $1,250.00 "
+NHan27910,Norma,Hansen,Texas,30/05/1976, $147.00 
+OGue28606,Olive,Guerrero,New Jersey,26/04/1978, $225.00 
+OBar25975,Oliver,Barber,Texas,11/02/1971, $225.00 
+OTer28852,Oliver,Terry,California,28/12/1978, $968.80 
+OCon26145,Olivia,Conner,Texas,31/07/1971, $120.00 
+OJoh27615,Ollie,Johnson,Nebraska,09/08/1975, $750.00 
+OSil27106,Orville,Silva,Delaware,18/03/1974, $82.00 
+OBow25992,Oscar,Bowen,Alaska,28/02/1971, $477.00 
+OFie26098,Oscar,Fields,Minnesota,14/06/1971, $107.00 
+OMor28285,Oscar,Morrison,Alaska,09/06/1977, $407.00 
+OSte27530,Owen,Stevens,Florida,16/05/1975, $55.50 
+PBar26245,Pat,Barrett,Missouri,08/11/1971, $55.50 
+PFle28685,Pat,Fleming,Texas,14/07/1978, $224.00 
+PPop28093,Patricia,Pope,New York,29/11/1976, $200.00 
+PCan27080,Patrick,Cannon,Georgia,20/02/1974, $500.00 
+POli27374,Patrick,Oliver,Illinois,11/12/1974, $87.00 
+PLar27519,Patsy,Larson,Iowa,05/05/1975, $95.00 
+PCan28855,Patti,Cannon,Pennsylvania,31/12/1978, $169.00 
+PKin26696,Patty,King,South Dakota,01/02/1973, $55.20 
+PMcb28509,Paul,Mcbride,California,19/01/1978, $790.00 
+PWat28647,Paul,Watkins,Georgia,06/06/1978, $325.00 
+PBis28326,Paulette,Bishop,South Dakota,20/07/1977, $128.00 
+PBla27041,Paulette,Black,Alabama,12/01/1974, $125.00 
+PCla28903,Pauline,Clayton,Colorado,17/02/1979, $260.00 
+PHer28017,Pauline,Herrera,Florida,14/09/1976, $90.00 
+PHol29097,Pauline,Holmes,California,30/08/1979, $804.65 
+PMen26551,Pearl,Mendez,Texas,09/09/1972, $95.00 
+PDav26722,Pedro,Davidson,Oregon,27/02/1973, $259.00 
+PMay27664,Pedro,May,District of Columbia,27/09/1975, $890.00 
+PNew26180,Pedro,Newton,Kansas,04/09/1971, $425.00 
+POwe27747,Pedro,Owen,New York,19/12/1975, $206.00 
+PHuf27539,Penny,Huff,Texas,25/05/1975, $194.00 
+PDun26431,Pete,Dunn,North Carolina,12/05/1972, $160.00 
+PCop27948,Peter,Copeland,North Dakota,07/07/1976, $750.00 
+PShe27614,Philip,Shelton,Oklahoma,08/08/1975, $90.00 
+PHin27851,Preston,Hines,California,01/04/1976, $25.00 
+POrt27661,Priscilla,Ortiz,Illinois,24/09/1975, $215.00 
+RCar29101,Rachael,Carr,Maine,03/09/1979, $61.50 
+RFul29062,Rafael,Fuller,Florida,26/07/1979, $225.00 
+RGar27671,Rafael,Garner,Virginia,04/10/1975, $401.00 
+RMcc28408,Ralph,Mccormick,Florida,10/10/1977, $66.00 
+RDel27526,Ramiro,Delgado,New York,12/05/1975, $357.00 
+RPri27644,Ramon,Price,Nebraska,07/09/1975, $750.00 
+RBur28609,Ramona,Burns,Florida,29/04/1978, $225.00 
+RHic27862,Ramona,Hicks,Virginia,12/04/1976, $235.00 
+RPag26396,Ramona,Page,California,07/04/1972, $540.00 
+RWat27825,Ramona,Watts,Washington,06/03/1976, $521.00 
+RMil26966,Randall,Miles,Colorado,29/10/1973, $331.00 
+RWil26301,Randall,Wilson,Pennsylvania,03/01/1972, $177.00 
+RBel27863,Randolph,Bell,Florida,13/04/1976, $225.00 
+RAus26197,Randy,Austin,New York,21/09/1971, $394.00 
+RDel28176,Raquel,Delgado,California,20/02/1977, $865.80 
+RPen27296,Raquel,Pena,Oklahoma,24/09/1974, $750.00 
+RGuz28818,Raul,Guzman,Louisiana,24/11/1978, $160.00 
+RPay28064,Raul,Payne,Ohio,31/10/1976, $57.00 
+RUnd28139,Raul,Underwood,Texas,14/01/1977, $126.00 
+RLeo28993,Raymond,Leonard,Vermont,18/05/1979, $725.00 
+RSan27191,Raymond,Santos,California,11/06/1974," $1,354.32 "
+RJim28534,Rebecca,Jimenez,California,13/02/1978, $790.00 
+RGra26815,Regina,Gray,District of Columbia,31/05/1973, $625.00 
+RPow28649,Reginald,Powers,Wyoming,08/06/1978, $198.00 
+RBus26167,Renee,Bush,Florida,22/08/1971, $125.00 
+RKle28598,Renee,Klein,Michigan,18/04/1978, $66.00 
+RFar28661,Rhonda,Farmer,Maryland,20/06/1978, $790.40 
+RFre28435,Ricardo,French,Kentucky,06/11/1977, $200.00 
+RMor28539,Ricardo,Morris,Pennsylvania,18/02/1978, $125.00 
+RCur27111,Rickey,Curtis,Idaho,23/03/1974, $725.00 
+RGre26642,Rickey,Green,California,09/12/1972," $1,377.36 "
+RMat26375,Rickey,Matthews,Montana,17/03/1972, $75.00 
+RHal26790,Ricky,Hall,South Dakota,06/05/1973, $58.30 
+RNor29017,Ricky,Norman,California,11/06/1979, $652.00 
+RDra26452,Rita,Drake,West Virginia,02/06/1972, $75.00 
+RMor26803,Roberta,Morris,Massachusetts,19/05/1973, $750.00 
+RSch26399,Roberta,Schwartz,Illinois,10/04/1972, $81.00 
+RNun27350,Roberto,Nunez,New Jersey,17/11/1974, $70.00 
+RCam28816,Robin,Campbell,Missouri,22/11/1978, $160.00 
+RNgu28994,Robin,Nguyen,Florida,19/05/1979, $64.50 
+RSny28904,Robin,Snyder,Georgia,18/02/1979, $94.00 
+RBar28137,Robyn,Barker,Maryland,12/01/1977, $325.00 
+RBla28971,Roderick,Blair,New York,26/04/1979, $322.00 
+RMat28409,Roderick,Matthews,New Mexico,11/10/1977, $160.00 
+RNor28551,Roderick,Norton,Florida,02/03/1978, $90.00 
+RGon29213,Rodolfo,Gonzalez,New Mexico,24/12/1979, $225.00 
+RWel29042,Rogelio,Welch,Texas,06/07/1979, $208.00 
+RGra27834,Roger,Gray,Colorado,15/03/1976, $471.00 
+RRod28814,Roland,Rodriquez,Mississippi,20/11/1978, $60.00 
+RFra26837,Rolando,Frank,Florida,22/06/1973, $225.00 
+RPar29166,Rolando,Parker,New Jersey,07/11/1979, $75.00 
+RMar26926,Ronald,Marshall,Louisiana,19/09/1973, $100.00 
+RVeg27720,Ronald,Vega,Pennsylvania,22/11/1975, $190.00 
+RMcb28546,Ronnie,Mcbride,New York,25/02/1978, $356.00 
+RSny26242,Ronnie,Snyder,Delaware,05/11/1971, $245.00 
+RVal28573,Ronnie,Valdez,Texas,24/03/1978, $191.00 
+RPet28174,Roosevelt,Peters,Washington,18/02/1977, $727.00 
+RRee26897,Roosevelt,Reed,Washington,21/08/1973, $405.00 
+RCam29001,Rosa,Campbell,Oregon,26/05/1979, $124.00 
+RHub28519,Rosa,Hubbard,South Carolina,29/01/1978, $84.00 
+RRiv27056,Rosa,Rivera,California,27/01/1974, $602.00 
+RBow27075,Rosalie,Bowen,California,15/02/1974, $95.00 
+RTay27065,Rosalie,Taylor,Colorado,05/02/1974, $368.00 
+RBec26647,Rosemarie,Beck,California,14/12/1972, $125.00 
+RHuf29104,Rosemarie,Huff,Oregon,06/09/1979, $182.00 
+RDel26094,Rosemary,Delgado,Kentucky,10/06/1971, $160.00 
+RVal26475,Rosemary,Valdez,California,25/06/1972, $85.00 
+RGue27518,Ross,Guerrero,California,04/05/1975, $580.00 
+RFlo29062,Roxanne,Flowers,New York,26/07/1979, $153.00 
+RBoo27718,Roy,Boone,Indiana,20/11/1975, $136.00 
+RRay27608,Roy,Ray,California,02/08/1975, $601.00 
+RAle27710,Ruben,Alexander,Rhode Island,12/11/1975, $59.00 
+RBar27181,Rudolph,Barnett,California,01/06/1974, $25.00 
+RHay25978,Rudy,Hayes,Idaho,14/02/1971, $90.00 
+RHug28230,Rufus,Hughes,New Jersey,15/04/1977, $450.00 
+RGra29204,Russell,Graham,California,15/12/1979, $76.00 
+SFre28152,Sabrina,French,Texas,27/01/1977, $105.00 
+SMit27912,Sabrina,Mitchell,California,01/06/1976, $25.00 
+SShe26490,Sabrina,Shelton,Ohio,10/07/1972, $320.00 
+SAnd26478,Sadie,Anderson,Georgia,28/06/1972, $250.00 
+SRei28289,Sadie,Reid,Nevada,13/06/1977, $124.00 
+SPit28202,Sally,Pittman,Florida,18/03/1977, $54.00 
+SRic27363,Salvatore,Richards,California,30/11/1974, $893.60 
+SWeb27546,Salvatore,Webster,Minnesota,01/06/1975, $158.00 
+SPhe29195,Samantha,Phelps,North Carolina,06/12/1979, $112.00 
+SBow28892,Sammy,Bowman,Illinois,06/02/1979, $303.00 
+SPot27246,Sandy,Potter,New Jersey,05/08/1974, $976.80 
+SHog28922,Santiago,Hogan,California,08/03/1979, $796.00 
+SSwa29194,Sara,Swanson,California,05/12/1979, $602.00 
+SPag27021,Sarah,Page,Illinois,23/12/1973, $151.00 
+SHol27955,Saul,Holt,Louisiana,14/07/1976, $225.00 
+SPet27225,Saul,Peters,California,15/07/1974, $25.00 
+SStr28688,Sergio,Strickland,Florida,17/07/1978, $56.40 
+SLam27066,Seth,Lambert,Texas,06/02/1974," $1,250.00 "
+SCar26318,Shannon,Carr,Delaware,20/01/1972, $142.00 
+SChr22467,Shannon,Christensen,Florida,05/07/1961, $100.00 
+SCox24794,Shannon,Cox,New Jersey,18/11/1967, $25.00 
+SHam23014,Shannon,Hammond,Texas,03/01/1963, $166.00 
+SHig24977,Shannon,Higgins,Texas,19/05/1968, $217.00 
+SRob25301,Shannon,Robinson,Illinois,08/04/1969, $109.00 
+SHof23042,Shari,Hoffman,Minnesota,31/01/1963, $349.00 
+SBur22680,Sharon,Burns,Illinois,03/02/1962, $102.00 
+SCai23644,Sharon,Cain,California,24/09/1964, $225.00 
+SMcg22455,Sharon,Mcguire,North Dakota,23/06/1961, $77.00 
+SAle22802,Shaun,Alexander,New York,05/06/1962, $176.00 
+SBur25003,Shaun,Burgess,Wisconsin,14/06/1968, $96.00 
+SVas24920,Sheldon,Vasquez,California,23/03/1968, $25.00 
+SWal23766,Shelia,Walton,California,24/01/1965, $796.00 
+SGib24778,Shelley,Gibbs,Minnesota,02/11/1967, $352.00 
+SPal22713,Shelley,Palmer,New Hampshire,08/03/1962, $431.00 
+SPie24807,Shelly,Pierce,Maine,01/12/1967, $68.00 
+SGar22868,Sheri,Garza,California,10/08/1962, $25.00 
+SVas23425,Sherman,Vasquez,Oklahoma,18/02/1964, $425.00 
+SMil24040,Sherry,Miller,California,25/10/1965, $629.00 
+SBla23455,Sheryl,Blake,Pennsylvania,19/03/1964, $71.00 
+STat23675,Sheryl,Tate,South Dakota,25/10/1964, $112.00 
+SSan23004,Shirley,Sandoval,Nevada,24/12/1962, $124.00 
+SDaw24121,Sidney,Dawson,Illinois,14/01/1966, $241.00 
+SGre24142,Sidney,Gregory,New York,04/02/1966, $129.00 
+SDou23967,Silvia,Douglas,California,13/08/1965, $67.50 
+SJen24808,Silvia,Jensen,Idaho,02/12/1967, $108.00 
+SMan23882,Silvia,Mann,Indiana,20/05/1965, $58.50 
+SDen24253,Simon,Dennis,Illinois,26/05/1966, $249.00 
+SAlv22459,Sonja,Alvarado,Florida,27/06/1961, $225.00 
+SCur25330,Sonja,Curry,Texas,07/05/1969, $184.00 
+SMcg23411,Sophia,Mcguire,Florida,04/02/1964, $90.00 
+SSpe22683,Sophia,Spencer,Florida,06/02/1962, $104.00 
+SBai24202,Spencer,Bailey,New York,05/04/1966, $109.00 
+SWat23625,Spencer,Waters,California,05/09/1964, $910.80 
+SGra23309,Stacey,Gray,Florida,25/10/1963, $132.00 
+SMen24032,Stacey,Mendoza,Tennessee,17/10/1965, $160.00 
+SPor23123,Stacy,Porter,Arkansas,22/04/1963, $100.00 
+SShe22385,Stacy,Sherman,California,14/04/1961, $25.00 
+SBur23945,Stanley,Burns,Pennsylvania,22/07/1965, $95.00 
+SMac24826,Stanley,Mack,Colorado,20/12/1967, $323.00 
+SWeb22531,Stanley,Weber,Hawaii,07/09/1961, $75.00 
+SBur23889,Stephanie,Burns,Oklahoma,27/05/1965, $57.00 
+SHuf23140,Stephanie,Huff,Texas,09/05/1963, $57.20 
+SMye23503,Stephanie,Myers,Pennsylvania,06/05/1964, $173.00 
+SRob23884,Stephanie,Robertson,Indiana,22/05/1965, $116.00 
+SGre24727,Stephen,Greer,Florida,12/09/1967, $66.00 
+SJon23704,Steven,Jones,North Dakota,23/11/1964, $191.00 
+SHam22567,Stewart,Hamilton,Rhode Island,13/10/1961, $145.00 
+SLam24864,Stewart,Lamb,Missouri,27/01/1968, $78.00 
+SNgu23708,Stewart,Nguyen,Missouri,27/11/1964, $100.00 
+SBec24204,Stuart,Beck,Kentucky,07/04/1966, $200.00 
+SSum25453,Stuart,Summers,Illinois,07/09/1969, $171.00 
+SBur24919,Sue,Burgess,New Jersey,22/03/1968," $1,450.96 "
+SLan24321,Sue,Lane,New York,02/08/1966, $314.00 
+STra24769,Sue,Tran,California,24/10/1967, $54.00 
+SWeb23537,Susie,Webb,Oregon,09/06/1964, $106.00 
+SEll23963,Sylvester,Elliott,Texas,09/08/1965, $131.00 
+SGib25552,Sylvia,Gibbs,Louisiana,15/12/1969, $100.00 
+THam25380,Tammy,Hamilton,California,26/06/1969, $25.00 
+TLeo24683,Tammy,Leonard,Kentucky,30/07/1967, $70.00 
+TBla24423,Tanya,Black,Wyoming,12/11/1966, $189.00 
+THer22385,Tanya,Hernandez,Illinois,14/04/1961, $133.00 
+TRee23927,Tanya,Reese,Michigan,04/07/1965, $425.00 
+TCar23380,Tara,Carlson,New York,04/01/1964, $104.00 
+TSny24862,Tara,Snyder,Utah,25/01/1968, $459.00 
+TNor25428,Taylor,Norris,Nebraska,13/08/1969, $124.00 
+TBro25201,Ted,Brown,California,29/12/1968, $125.00 
+TSum23406,Ted,Summers,California,30/01/1964, $611.00 
+TSco25424,Terence,Scott,Florida,09/08/1969, $750.00 
+TMcd23827,Teresa,Mcdonald,Kansas,26/03/1965, $425.00 
+TSan23652,Terrance,Sanchez,New York,02/10/1964, $235.00 
+TJor23408,Terry,Jordan,New York,01/02/1964, $382.00 
+THub23024,Thelma,Hubbard,Pennsylvania,13/01/1963, $146.00 
+TBat24201,Theodore,Bates,North Carolina,04/04/1966, $120.00 
+TCon22782,Theresa,Conner,Arizona,16/05/1962, $325.00 
+TEdw22760,Theresa,Edwards,Vermont,24/04/1962, $725.00 
+TLam22620,Tiffany,Lambert,Arizona,05/12/1961, $475.00 
+TGre24122,Timmy,Gregory,Delaware,15/01/1966, $192.00 
+TAlv24194,Timothy,Alvarado,Ohio,28/03/1966, $725.00 
+TLar25059,Timothy,Larson,Maine,09/08/1968, $75.00 
+TWat23641,Timothy,Watson,Oregon,21/09/1964, $57.00 
+TWag22705,Tina,Wagner,New York,28/02/1962, $399.00 
+TCon23551,Toby,Conner,Vermont,23/06/1964, $138.00 
+TBow22724,Todd,Bowers,Florida,19/03/1962, $225.00 
+TBus22526,Todd,Bush,California,02/09/1961," $1,334.88 "
+TMun23813,Tom,Munoz,Arkansas,12/03/1965, $70.00 
+TGar23218,Tommy,Garza,Rhode Island,26/07/1963, $214.00 
+TBro23401,Tony,Brown,Maryland,25/01/1964, $932.80 
+TBar23478,Tonya,Barrett,Texas,11/04/1964, $160.00 
+TCla24600,Tonya,Clark,California,08/05/1967, $790.40 
+TLew24776,Tonya,Lewis,Texas,31/10/1967, $217.00 
+TPen23478,Tonya,Pena,Indiana,11/04/1964, $160.00 
+TRod22397,Tonya,Rodriguez,Illinois,26/04/1961," $2,350.00 "
+TBra23975,Tracey,Bradley,Florida,21/08/1965, $120.00 
+TOls23707,Traci,Olson,Florida,26/11/1964, $225.00 
+TTyl20092,Traci,Tyler,Hawaii,03/01/1955, $75.00 
+TDea18820,Tracy,Dean,Florida,11/07/1951, $67.00 
+TFie18828,Tracy,Fields,Hawaii,19/07/1951, $225.00 
+TGre19050,Tracy,Green,New York,26/02/1952, $175.00 
+TSte20257,Tracy,Stewart,New Jersey,17/06/1955, $595.00 
+TCar21417,Travis,Carson,Kentucky,20/08/1958, $90.00 
+TSan18773,Travis,Santos,South Carolina,25/05/1951, $64.00 
+TCol20621,Trevor,Coleman,Florida,15/06/1956, $750.00 
+TCla20902,Troy,Clarke,Nevada,23/03/1957, $124.00 
+TMoo20976,Tyler,Moody,Illinois,05/06/1957, $182.00 
+TNea20681,Tyler,Neal,Montana,14/08/1956, $70.00 
+TRey20667,Tyler,Reynolds,Maryland,31/07/1956, $425.00 
+TJen18822,Tyrone,Jennings,West Virginia,13/07/1951, $200.00 
+VHay20627,Van,Haynes,Texas,21/06/1956, $81.00 
+VHer21108,Van,Hernandez,New Hampshire,15/10/1957, $577.00 
+VMan19239,Van,Manning,Illinois,02/09/1952, $221.00 
+VBra20341,Vanessa,Brady,Florida,09/09/1955, $56.00 
+VSwa21428,Vera,Swanson,Michigan,31/08/1958, $59.00 
+VDav21915,Verna,Davis,Maryland,31/12/1959, $225.00 
+VMit21284,Verna,Mitchell,Texas,09/04/1958, $75.00 
+VMcc21035,Vernon,Mccormick,Illinois,03/08/1957, $288.00 
+VMul21845,Veronica,Mullins,Michigan,22/10/1959, $136.00 
+VBra20404,Vicki,Brady,Texas,11/11/1955, $241.00 
+VFra21474,Victoria,Franklin,Texas,16/10/1958," $1,250.00 "
+VHug21836,Vincent,Hughes,Texas,13/10/1959, $114.00 
+VPet21206,Vincent,Peters,South Carolina,21/01/1958, $104.00 
+VGro19602,Virgil,Gross,California,31/08/1953, $115.00 
+VOwe19312,Virgil,Owens,Pennsylvania,14/11/1952, $59.00 
+VBar19000,Vivian,Barton,California,07/01/1952, $95.00 
+VWhe20429,Vivian,Wheeler,Texas,06/12/1955, $178.00 
+WBur18683,Wade,Burton,Texas,24/02/1951, $132.00 
+WDav21029,Wallace,Davidson,Texas,28/07/1957, $219.00 
+WHun19485,Wallace,Hunt,Idaho,06/05/1953, $75.00 
+WCol20989,Walter,Coleman,Tennessee,18/06/1957, $70.00 
+WPra20242,Walter,Pratt,California,02/06/1955, $629.00 
+WDav19603,Wanda,Davis,Pennsylvania,01/09/1953, $725.00 
+WFra18672,Warren,Francis,Illinois,13/02/1951, $249.00 
+WOrt19620,Warren,Ortega,Connecticut,18/09/1953, $150.00 
+WRya19070,Warren,Ryan,Florida,17/03/1952, $225.00 
+WAgu19690,Wayne,Aguilar,Texas,27/11/1953, $145.00 
+WDav18716,Wendell,Davis,California,29/03/1951, $25.00 
+WRee18723,Wendell,Reeves,Maine,05/04/1951, $75.00 
+WSan20745,Wendell,Sanders,District of Columbia,17/10/1956, $786.00 
+WChr19953,Wesley,Christensen,Washington,17/08/1954, $465.00 
+WMor17936,Wesley,Morton,District of Columbia,07/02/1949, $750.00 
+WCla16784,Whitney,Clarke,Oregon,13/12/1945, $215.00 
+WCol18131,Wilbert,Coleman,Tennessee,21/08/1949, $55.20 
+WCar17668,Wilbur,Carson,Florida,15/05/1948, $57.60 
+WFis17037,Wilbur,Fisher,California,23/08/1946, $25.00 
+WWag15988,Wilbur,Wagner,Georgia,09/10/1943, $87.00 
+WPar15056,Wilfred,Parks,Pennsylvania,21/03/1941, $725.00 
+WBro18095,Willie,Brock,Washington,16/07/1949, $628.00 
+WBur17828,Willie,Burgess,California,22/10/1948, $75.00 
+WRic17930,Willie,Rice,California,01/02/1949, $25.00 
+WCha17079,Wilma,Chandler,Michigan,04/10/1946, $425.00 
+WMor18260,Wilson,Morgan,New Hampshire,28/12/1949, $442.00 
+WPie15980,Wilson,Pierce,Florida,01/10/1943, $750.00 
+WTat15274,Wilson,Tate,Pennsylvania,25/10/1941, $121.00 
+WMar16654,Winifred,Martinez,Hawaii,05/08/1945, $75.00 
+WHil16623,Wm,Hill,New Mexico,05/07/1945, $160.00 
+WGri13609,Woodrow,Griffin,Texas,04/04/1937, $191.00 
+WMur11954,Woodrow,Murphy,Idaho,22/09/1932, $75.00 
+YSil12034,Yolanda,Silva,Texas,11/12/1932, $180.00 
+YDoy13381,Yvette,Doyle,New York,19/08/1936, $121.00 
+ZHow11526,Zachary,Howard,Arizona,22/07/1931, $500.00 
